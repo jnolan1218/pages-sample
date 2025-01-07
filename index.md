@@ -11,3 +11,9 @@ title: Home
 - [Markdown](02-markdown-examples)
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
+
+## Header
+Some example text
+
+### Another header
+some other text
